@@ -1,0 +1,20 @@
+{
+  "name": "rasphia",
+  "interface": {
+    "displayName": "Rasphia"
+  },
+  "plugins": [
+    {
+      "name": "rasphia",
+      "source": {
+        "source": "local",
+        "path": "./plugins/rasphia"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Lifestyle"
+    }
+  ]
+}

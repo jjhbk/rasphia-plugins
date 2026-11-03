@@ -1,0 +1,41 @@
+{
+  "name": "rasphia",
+  "version": "1.0.0",
+  "description": "Find and book local services and shops in India, manage bookings and orders, and message businesses.",
+  "author": {
+    "name": "Rasphia",
+    "url": "https://www.rasphia.com"
+  },
+  "homepage": "https://www.rasphia.com/connect",
+  "keywords": [
+    "booking",
+    "local services",
+    "india",
+    "appointments",
+    "upi"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Rasphia",
+    "shortDescription": "Book local services in India",
+    "longDescription": "Rasphia helps you find and book local services and shops in India: salons, clinics, gyms, tutors and more. Search listings, prices and open times without signing in. To book, order, see your bookings or message a business, sign in once with WhatsApp or Google.\n\nRasphia never charges you inside the chat. When something needs paying, you get a link to pay the business directly on rasphia.com by UPI, or you pay at the venue. Your agent works within the spending limits you set on Rasphia, and asks you before it books, cancels or sends a message.\n\nLimitations: businesses are in India, prices are in rupees, and only businesses listed on Rasphia can be booked.",
+    "developerName": "Rasphia",
+    "category": "Lifestyle",
+    "capabilities": [
+      "Search local services and shops",
+      "See open appointment times",
+      "Book and reschedule appointments",
+      "Place orders",
+      "See your bookings and orders",
+      "Message a business"
+    ],
+    "defaultPrompt": [
+      "Find a haircut in Bengaluru with an open slot this Saturday.",
+      "What bookings do I have coming up?",
+      "Book a physiotherapy session near Indiranagar next week."
+    ],
+    "brandColor": "#E8893A",
+    "composerIcon": "./assets/logo.png",
+    "logo": "./assets/logo.png"
+  }
+}

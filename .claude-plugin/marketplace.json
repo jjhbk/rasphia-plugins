@@ -1,0 +1,21 @@
+{
+  "name": "rasphia",
+  "description": "Find and book local services and shops in India, manage bookings and orders, and message businesses.",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Rasphia",
+    "url": "https://www.rasphia.com"
+  },
+  "plugins": [
+    {
+      "name": "rasphia",
+      "displayName": "Rasphia",
+      "description": "Find and book local services and shops in India, manage bookings and orders, and message businesses.",
+      "source": "./plugins/rasphia",
+      "category": "productivity",
+      "skills": [
+        "./skills/rasphia"
+      ]
+    }
+  ]
+}

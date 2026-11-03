@@ -1,0 +1,23 @@
+{
+  "name": "rasphia",
+  "version": "1.0.0",
+  "description": "Find and book local services and shops in India, manage bookings and orders, and message businesses.",
+  "author": {
+    "name": "Rasphia",
+    "url": "https://www.rasphia.com"
+  },
+  "homepage": "https://www.rasphia.com/connect",
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://www.rasphia.com/agent-setup.md",
+  "supportUrl": "https://rasphia.com/contact",
+  "privacyPolicyUrl": "https://rasphia.com/privacy",
+  "termsOfServiceUrl": "https://rasphia.com/terms",
+  "license": "Proprietary",
+  "keywords": [
+    "booking",
+    "local services",
+    "india",
+    "appointments",
+    "upi"
+  ]
+}
