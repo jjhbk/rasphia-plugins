@@ -1,7 +1,7 @@
 {
   "name": "rasphia",
   "description": "Find and book local services and shops in India, manage bookings and orders, and message businesses.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "owner": {
     "name": "Rasphia",
     "url": "https://www.rasphia.com"
@@ -15,6 +15,16 @@
       "category": "productivity",
       "skills": [
         "./skills/rasphia"
+      ]
+    },
+    {
+      "name": "rasphia-business",
+      "displayName": "Rasphia for business",
+      "description": "Run your business on Rasphia from your agent: listings and prices, hours, bookings, customers, payments and refunds, and messages.",
+      "source": "./plugins/rasphia-business",
+      "category": "productivity",
+      "skills": [
+        "./skills/rasphia-business"
       ]
     }
   ]

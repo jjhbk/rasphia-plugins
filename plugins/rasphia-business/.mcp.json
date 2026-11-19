@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "rasphia-business": {
+      "type": "http",
+      "url": "https://merchants.rasphia.com/mcp"
+    }
+  }
+}

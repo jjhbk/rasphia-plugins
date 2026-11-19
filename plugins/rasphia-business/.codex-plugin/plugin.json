@@ -1,0 +1,41 @@
+{
+  "name": "rasphia-business",
+  "version": "1.1.0",
+  "description": "Run your business on Rasphia from your agent: listings and prices, hours, bookings, customers, payments and refunds, and messages.",
+  "author": {
+    "name": "Rasphia",
+    "url": "https://www.rasphia.com"
+  },
+  "homepage": "https://merchants.rasphia.com/connect",
+  "keywords": [
+    "booking",
+    "local services",
+    "india",
+    "appointments",
+    "upi",
+    "merchant",
+    "business owner"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Rasphia for business",
+    "shortDescription": "Run your business on Rasphia",
+    "longDescription": "Run your business on Rasphia from your agent: listings and prices, hours, bookings, customers, payments and refunds, and messages.",
+    "developerName": "Rasphia",
+    "category": "Productivity",
+    "capabilities": [
+      "Manage listings and prices",
+      "See and manage bookings",
+      "Message customers",
+      "Check payments and refunds"
+    ],
+    "defaultPrompt": [
+      "What bookings do I have this week?",
+      "Update my opening hours for Diwali.",
+      "Who paid today?"
+    ],
+    "brandColor": "#E8893A",
+    "composerIcon": "./assets/logo.png",
+    "logo": "./assets/logo.png"
+  }
+}

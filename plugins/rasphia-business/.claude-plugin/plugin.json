@@ -1,0 +1,25 @@
+{
+  "name": "rasphia-business",
+  "version": "1.1.0",
+  "description": "Run your business on Rasphia from your agent: listings and prices, hours, bookings, customers, payments and refunds, and messages.",
+  "author": {
+    "name": "Rasphia",
+    "url": "https://www.rasphia.com"
+  },
+  "homepage": "https://merchants.rasphia.com/connect",
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://merchants.rasphia.com/agent-setup.md",
+  "supportUrl": "https://rasphia.com/contact",
+  "privacyPolicyUrl": "https://rasphia.com/privacy",
+  "termsOfServiceUrl": "https://rasphia.com/terms",
+  "license": "Proprietary",
+  "keywords": [
+    "booking",
+    "local services",
+    "india",
+    "appointments",
+    "upi",
+    "merchant",
+    "business owner"
+  ]
+}
